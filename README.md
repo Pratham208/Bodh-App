@@ -1,5 +1,5 @@
+![alt text](https://github.com/Pratham208/Bodh-App/blob/main/assets/main.png)
 
-https://github.com/Pratham208/Bodh-App/blob/main/assets/main.png
 ## Getting Started
 
 This project is a starting point for a Flutter application.
