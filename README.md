@@ -1,14 +1,10 @@
 ![alt text](https://github.com/Pratham208/Bodh-App/blob/main/assets/main.png)
 
-## Getting Started
+## Bodh App - A Sanskrit Teaching App
 
-This project is a starting point for a Flutter application.
+"Teaching Aid," which helps learn/teach / practice (Samskritam) a.k.a. Sanskrit with ease. To Provide a guided teaching Platform that helps users learn Sanskrit in fun ways with lots of practice in 6 different ways, Live stream lectures from top content creators, and translate anything to Sanskrit using 4 different tools. 
 
-A few resources to get you started if this is your first Flutter project:
+Video Link - https://vimeo.com/user130591510/review/497138880/3d3b45ffd8
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Prototype Link - https://xd.adobe.com/view/694f4b02-7083-40fb-99d5-531954383f92-3c1c/?fullscreen&hints=off
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
